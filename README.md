@@ -1,8 +1,4 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# 37190
 
 ## Current behavior
 
@@ -15,4 +11,4 @@ The Ansible manager should detect the dependency as `community.hashi_vault`.
 
 ## Link to the Renovate issue or Discussion
 
-
+https://github.com/renovatebot/renovate/discussions/37190
