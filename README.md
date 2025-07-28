@@ -6,12 +6,13 @@ Then replace the current `h1` with the Renovate Issue/Discussion number.
 
 ## Current behavior
 
-Explain the current behavior here.
+The Ansible manager detects the dependency as `spellchecker/disable-line` which
+is clearly coming from the comment.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+The Ansible manager should detect the dependency as `community.hashi_vault`.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+
